@@ -19,8 +19,8 @@ from pytz import timezone
 url = 'https://mda.dpworldchile.cl/api/v1/incidents.by.status?'
 
 # Credenciales de autenticación
-username = 'conexion'
-password = '7teOmvKNzymGsFUeAkHJA7FL'
+username = 'XXXXXXXXX'
+password = 'XXXXXXXXX'
 
 # Datos a enviar en el body de la solicitud
 data = {
