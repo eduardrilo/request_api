@@ -107,8 +107,8 @@ for i in range(math.ceil(row/5000)):
  # conectarse a la base de datos
     server = '10.40.190.178'
     database = 'AppInvgate'
-    username = 'AppInvgateUser'
-    password = 'InvgateApp.2022'
+    username = 'xxxxxx'
+    password = 'xxxxxx'
     cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
 
 # crear un cursor para la conexión
